@@ -1,5 +1,7 @@
 from typing import List
 
+# Worked in collaboration with khyunjin1993:
+
 def path_to_file_list(path: str) -> List[str]:
     """Reads a file and returns a list of lines in the file"""
     # Will this be working?
